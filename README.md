@@ -230,6 +230,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 ### User Testing
 
 * Silverback 2.0 | http://silverbackapp.com | [@silverbackapp](https://twitter.com/silverbackapp) | 69.95 | Guerrilla usability testing software for designers and developers | Silverback makes it easy, quick and cheap for everyone to perform guerrilla usability tests with no setup and no expense, using hardware already in your Mac.
+* Lucky Orange | https://www.luckyorange.com/ | [@luckyorange](https://twitter.com/luckyorange) | $10 - 100+/mo | Screen recordings, dynamic heatmaps, live chat, conversion funnels, form analytics, and polls allowing you to get better feedback on your user expirience and increased customer conversion.
 * HotJar | https://www.hotjar.com | [@hotjar](https://twitter.com/hotjar) | Free - $29/mo (personal) | Records videos and collects heatmaps of your site visitor actions.
 * Wisdom | https://getWisdom.io | Free - $2000+/mo | Session Replay | Wisdom is the most accurate live visitor session recorder service available. Focusing only on session replay, Wisdom reconstructs a virtual desktop screen for every visitor, across all tabs, to capture the true feel of every visitor's experience.
 
